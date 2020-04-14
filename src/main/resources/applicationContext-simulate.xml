@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+
+    <bean name="vehicle" class="com.lzu.lesson06_abstract_factory.sprint3_simulate.Car">
+    </bean>
+
+</beans>
